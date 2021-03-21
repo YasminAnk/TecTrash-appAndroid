@@ -1,0 +1,1 @@
+# TecTrash-appAndroid
